@@ -145,11 +145,7 @@ python -m http.server 8000
 
 ## 🎯 **Host**
 
-```bash
 https://rounak-jain01.github.io/My-Portfolio/
-```
-
----
 
 <div align="center" style="margin: 40px 0;">
   <h2>Let's Create Something Amazing Together!</h2>
