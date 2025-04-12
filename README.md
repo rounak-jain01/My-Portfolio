@@ -11,9 +11,14 @@
 ## 🎨 **Visual Showcase**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-  <img src="/portfolio_images/home" alt="Home Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
-  <img src="https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Projects+Grid" alt="Projects Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
-  <img src="https://via.placeholder.com/600x400/0a0a0a/ffffff?text=Skills+Matrix" alt="Skills Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/home.png" alt="Home Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/about.png" alt="About Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/skills.png" alt="Skills Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/education.png" alt="Education Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/projects.png" alt="Project Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/certificate.png" alt="Certificate Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/contact.png" alt="Contact Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
+  <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/footer.png" alt="Footer Section" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(183,75,75,0.3);">
 </div>
 
 ---
@@ -132,6 +137,16 @@ cd portfolio
 
 # 3. Launch (Python 3)
 python -m http.server 8000
+```
+
+---
+
+---
+
+## 🎯 **Host**
+
+```bash
+
 ```
 
 ---
