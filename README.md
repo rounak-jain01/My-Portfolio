@@ -8,6 +8,11 @@
 
 ---
 
+
+## 🎯 **Host**
+
+https://rounak-jain01.github.io/My-Portfolio/
+
 ## 🎨 **Visual Showcase**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
@@ -143,9 +148,6 @@ python -m http.server 8000
 
 ---
 
-## 🎯 **Host**
-
-https://rounak-jain01.github.io/My-Portfolio/
 
 <div align="center" style="margin: 40px 0;">
   <h2>Let's Create Something Amazing Together!</h2>
