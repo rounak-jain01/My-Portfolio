@@ -1,7 +1,5 @@
 # 🚀 Rounak Jain - Portfolio Website
 
-![Portfolio Banner](photos/mypto.jpg)
-
 ## ✨ [Live Demo](https://rounak-jain01.github.io/My-Portfolio/)
 
 A modern, responsive portfolio website showcasing my skills, projects, and achievements as an AI & Data Science enthusiast.
